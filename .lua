@@ -37,7 +37,7 @@ getgenv().Config = {
         ["Weapons"] = {"Melee", "Sword", "Gun", "Blox Fruit"}
     },
     Items = {
-        Use = {"Melee", "Fruit"},
+        Use = {"Melee", "Fruit", "Sword"},
         Melee = {
             Enable = true,
             Delay = 0.6,
